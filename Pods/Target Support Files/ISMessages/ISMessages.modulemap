@@ -1,0 +1,6 @@
+framework module ISMessages {
+  umbrella header "ISMessages-umbrella.h"
+
+  export *
+  module * { export * }
+}

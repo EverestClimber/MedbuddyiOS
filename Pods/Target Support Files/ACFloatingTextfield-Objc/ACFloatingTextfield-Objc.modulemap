@@ -1,0 +1,6 @@
+framework module ACFloatingTextfield_Objc {
+  umbrella header "ACFloatingTextfield-Objc-umbrella.h"
+
+  export *
+  module * { export * }
+}

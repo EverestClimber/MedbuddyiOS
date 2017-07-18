@@ -1,0 +1,6 @@
+framework module AFViewShaker {
+  umbrella header "AFViewShaker-umbrella.h"
+
+  export *
+  module * { export * }
+}

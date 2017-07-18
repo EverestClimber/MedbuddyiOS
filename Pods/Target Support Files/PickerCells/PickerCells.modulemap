@@ -1,0 +1,6 @@
+framework module PickerCells {
+  umbrella header "PickerCells-umbrella.h"
+
+  export *
+  module * { export * }
+}
